@@ -4,6 +4,8 @@
 <html>
 <head>
     <title>学生管理系统</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/aa.css">
 </head>
 <body>
 

@@ -1,6 +1,9 @@
 create database STUDB
 go
 
+use STUDB;
+go
+
 create table STUDENT_INFO
 (
     stuno varchar(20) primary key,
